@@ -1,6 +1,6 @@
 {
   "name": "otp-jslib",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "JavaScript library for generating OTP",
   "main": "dist/index.js",
   "repository": "https://github.com/donriddo/otp-jslib",
