@@ -1,0 +1,18 @@
+{
+  "name": "otp-lib",
+  "version": "0.1.0",
+  "description": "An OTP generator library",
+  "main": "dist/index.js",
+  "repository": "https://github.com/donriddo/otp-lib",
+  "author": "Ridwan Taiwo<donriddo@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^17.0.29",
+    "typescript": "^4.6.3"
+  }
+}
