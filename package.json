@@ -1,9 +1,9 @@
 {
-  "name": "otp-ts",
+  "name": "otp-jslib",
   "version": "0.1.3",
   "description": "JavaScript library for generating OTP",
   "main": "dist/index.js",
-  "repository": "https://github.com/donriddo/otp-ts",
+  "repository": "https://github.com/donriddo/otp-jslib",
   "author": "Ridwan Taiwo<donriddo@gmail.com>",
   "license": "MIT",
   "private": false,
