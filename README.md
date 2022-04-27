@@ -3,11 +3,11 @@
 ## How to use
 
 ```bash
-yarn add otp-js
+yarn add otp-ts
 ```
 
 ```typescript
-import { totp } from "otp-js";
+import { totp } from "otp-ts";
 
 const secret = "secret";
 const otpLength = 6;
